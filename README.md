@@ -13,7 +13,7 @@ Two data frames were merged and subsequently the groupby function was executed t
 
 ![Alt Text](https://github.com/ramonmhung/PyBer_Analysis-/blob/main/PYBER%20ANALYSIS%20/DATA%20FRAME.png)
 
-- The summary indicates that Urban city type has significantly more drivers than total rides. This has some impact on the average fare per ride and the average fare per driver. Urban drivers performed with lowest average fare per rider and earn less than other city types drivers. The ratio of total rides to total is drivers is similar for Suburban and Rural cities. Rural city type had the highest average fare per driver.
+- The summary indicates that Urban city type has significantly more drivers than total rides. This has some impact on the average fare per ride and the average fare per driver. Urban drivers performed with the lowest average fare per drider and earn less than other city types drivers. The ratio of total rides to total is drivers is similar for Suburban and Rural cities. Rural city type had the highest average fare per driver.
 
 ### Total fare by city type 
 
@@ -27,6 +27,13 @@ The original dataframe was modified for the dates data could be grouped by weeks
 
 ## Summary 
 
+## Recomendations 
+
+- Since there's a bigger concentration of drivers in Urban areas and distances are shorter and slightly increase in fare could bring more revenue and work as incentive to retain more employees.
+
+- Apply promotions or rewards point systems in moments the amount of rides decreases depending on the season. 
+
+- Pay a highly per hour base to rural drivers to incentivize more drivers to join the company.
 
 
 
